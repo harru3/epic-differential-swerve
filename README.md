@@ -1,6 +1,6 @@
 # epic-diffy-swerve
 
-![swerve swerving](images/swerve_demo.gif)
+![swerve swerving](images/swervy.gif)
 
 
 # OVERVIEW:
