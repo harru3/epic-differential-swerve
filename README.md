@@ -1,4 +1,4 @@
-# epic-diffy-swerve
+# differential-swerve
 
 ![swerve swerving](images/swervy.gif)
 
